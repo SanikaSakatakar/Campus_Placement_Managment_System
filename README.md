@@ -88,7 +88,7 @@ campus-placement-system/
 - MySQL 8.0
 - Git
 
-### Backend Setup
+### Backend Setup of project
 
 1. **Create MySQL Database**
 ```sql
