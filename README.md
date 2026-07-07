@@ -1,4 +1,4 @@
-# Campus Placement Management System
+# Campus Placement Management System project
 
 A complete full-stack web application for managing campus placements with an attractive, modern UI.
 
