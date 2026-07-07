@@ -42,7 +42,7 @@ A complete full-stack web application for managing campus placements with an att
 - **ORM:** JPA/Hibernate
 - **Build Tool:** Maven
 
-### Frontend
+### Frontend of project
 - **Framework:** React 18
 - **Build Tool:** Vite
 - **Routing:** React Router v6
