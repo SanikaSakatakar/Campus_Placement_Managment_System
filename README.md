@@ -49,7 +49,7 @@ A complete full-stack web application for managing campus placements with an att
 - **HTTP Client:** Axios
 - **Styling:** Custom CSS (Modern gradient design)
 
-## 📁 a complete Project Structure
+## 📁 Project Structure
 
 ```
 campus-placement-system/
