@@ -2,7 +2,7 @@
 
 A complete full-stack web application for managing campus placements with an attractive, modern UI.
 
-## 🎯Features 
+## 🎯Features of the project
 
 ### For Students
 - ✅ Register and create profile with skills, projects, certifications
