@@ -32,7 +32,7 @@ A complete full-stack web application for managing campus placements with an att
 - 🏆 **View top recruiting companies**
 - 📉 **Application status breakdown analytics**
 
-## 🛠️ Tech Stack used 
+## 🛠️ Tech Stack 
 
 ### Backend
 - **Framework:** Spring Boot 3.2.0
