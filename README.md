@@ -15,7 +15,7 @@ A complete full-stack web application for managing campus placements with an att
 - 🔔 See upcoming and past interviews
 - 📍 Access interview location/meeting links
 
-### For Companies
+### For Companie
 - 🏢 Company registration with approval workflow
 - 📝 Post job openings with detailed criteria
 - 👥 View and manage applicants
