@@ -1,6 +1,6 @@
 # Campus Placement Management System project
 
-A complete full-stack web application for managing campus placements with an attractive, modern UI.
+A complete full-stack web application for managing campus placements with an attractive, modern UI
 
 ## 🎯Features
 
