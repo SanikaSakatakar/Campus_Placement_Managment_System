@@ -80,7 +80,7 @@ campus-placement-system/
     └── vite.config.js
 ```
 
-## 🚀 Installation & Setup of project
+## 🚀Installation & Setup of project
 
 ### Prerequisites
 - Java 17 or higher
