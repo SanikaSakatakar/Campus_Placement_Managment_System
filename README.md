@@ -24,6 +24,7 @@ A complete full-stack web application for managing campus placements with an att
 - 💬 Add interview instructions for candidates
 - 📊 Dashboard with recruitment analytics
 
+
 ### For Admin
 - 👨‍💼 Approve/reject company registrations
 - 📊 View comprehensive placement statistics
