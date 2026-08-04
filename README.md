@@ -51,7 +51,7 @@ A complete full-stack web application for managing campus placements with an att
 
 ## Project Structure
 
-```
+``
 campus-placement-system/
 ├── backend/
 │   ├── src/main/java/com/placement/
