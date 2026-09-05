@@ -9,7 +9,7 @@ A complete full-stack web application for managing campus placements with an att
 - 📄 **Upload and manage resume (PDF)**
 - 📋 View eligible jobs based on CGPA, branch, and skills
 - 🎯 Smart eligibility matching algorithm
-- 📝 One-click job applications
+- 📝 One-click job application
 - 📊 Track application status in real-time
 - 📅 **View and manage interview schedules**
 - 🔔 See upcoming and past interviews
